@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB506E5-0195-4E74-8A18-F2E15EFC6C34}|HomeLibrary\\HomeLibrary.csproj|d:\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\homelibrarymvc\\homelibrary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDB506E5-0195-4E74-8A18-F2E15EFC6C34}|HomeLibrary\\HomeLibrary.csproj|solutionrelative:homelibrary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34CBFFA-483F-47F4-A7D2-39342FB49485}|DataLayer\\DataLayer.csproj|d:\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\homelibrarymvc\\datalayer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34CBFFA-483F-47F4-A7D2-39342FB49485}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB506E5-0195-4E74-8A18-F2E15EFC6C34}|HomeLibrary\\HomeLibrary.csproj|d:\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\homelibrarymvc\\homelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB506E5-0195-4E74-8A18-F2E15EFC6C34}|HomeLibrary\\HomeLibrary.csproj|solutionrelative:homelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34CBFFA-483F-47F4-A7D2-39342FB49485}|DataLayer\\DataLayer.csproj|d:\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\homelibrarymvc\\datalayer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34CBFFA-483F-47F4-A7D2-39342FB49485}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34CBFFA-483F-47F4-A7D2-39342FB49485}|DataLayer\\DataLayer.csproj|d:\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\homelibrarymvc\\datalayer\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34CBFFA-483F-47F4-A7D2-39342FB49485}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB506E5-0195-4E74-8A18-F2E15EFC6C34}|HomeLibrary\\HomeLibrary.csproj|d:\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\homelibrarymvc\\homelibrary\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB506E5-0195-4E74-8A18-F2E15EFC6C34}|HomeLibrary\\HomeLibrary.csproj|solutionrelative:homelibrary\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\DataLayer\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\Book.cs",
+              "ToolTip": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\DataLayer\\Models\\Book.cs",
+              "RelativeToolTip": "DataLayer\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:10:06.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\DataLayer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DbInitializer.cs",
+              "ToolTip": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\DataLayer\\DbInitializer.cs",
+              "RelativeToolTip": "DataLayer\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:28:43.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\DataLayer\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LibraryContext.cs",
+              "ToolTip": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\DataLayer\\LibraryContext.cs",
+              "RelativeToolTip": "DataLayer\\LibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:24:08.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\HomeLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "HomeLibrary\\Program.cs",
+              "ToolTip": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\HomeLibrary\\Program.cs",
+              "RelativeToolTip": "HomeLibrary\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:52:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\HomeLibrary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeLibrary\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\HomeLibrary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeLibrary\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:49:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\HomeLibrary\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "HomeLibrary\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\HomeLibraryMVC\\HomeLibrary\\Controllers\\BookController.cs",
+              "RelativeToolTip": "HomeLibrary\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:44:54.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

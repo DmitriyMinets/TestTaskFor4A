@@ -1,0 +1,14 @@
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\bin\Debug\net8.0\DuplicateFinder.exe
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\bin\Debug\net8.0\DuplicateFinder.deps.json
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\bin\Debug\net8.0\DuplicateFinder.runtimeconfig.json
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\bin\Debug\net8.0\DuplicateFinder.dll
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\bin\Debug\net8.0\DuplicateFinder.pdb
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\DuplicateFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\DuplicateFinder.AssemblyInfoInputs.cache
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\DuplicateFinder.AssemblyInfo.cs
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\DuplicateFinder.csproj.CoreCompileInputs.cache
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\DuplicateFinder.dll
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\refint\DuplicateFinder.dll
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\DuplicateFinder.pdb
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\DuplicateFinder.genruntimeconfig.cache
+C:\Users\dotad\source\repos\DuplicateFinder\DuplicateFinder\obj\Debug\net8.0\ref\DuplicateFinder.dll

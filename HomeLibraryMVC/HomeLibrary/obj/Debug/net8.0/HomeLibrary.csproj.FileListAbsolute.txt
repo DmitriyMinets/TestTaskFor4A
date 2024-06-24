@@ -1,0 +1,148 @@
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\appsettings.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.staticwebassets.runtime.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.exe
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.deps.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.runtimeconfig.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\HomeLibrary.pdb
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.csproj.AssemblyReference.cache
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.AssemblyInfoInputs.cache
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.AssemblyInfo.cs
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.RazorAssemblyInfo.cache
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.RazorAssemblyInfo.cs
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.HomeLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.HomeLibrary.props
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HomeLibrary.props
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HomeLibrary.props
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\scopedcss\bundle\HomeLibrary.styles.css
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\scopedcss\projectbundle\HomeLibrary.bundle.scp.css
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibr.D329F5B4.Up2Date
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\refint\HomeLibrary.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.pdb
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\HomeLibrary.genruntimeconfig.cache
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\obj\Debug\net8.0\ref\HomeLibrary.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\DataLayer.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Services.dll
+C:\Users\dotad\source\repos\HomeLibrary\HomeLibrary\bin\Debug\net8.0\Services.pdb
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\appsettings.Development.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\appsettings.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\HomeLibrary.staticwebassets.runtime.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\HomeLibrary.exe
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\HomeLibrary.deps.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\HomeLibrary.runtimeconfig.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\HomeLibrary.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\HomeLibrary.pdb
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Azure.Core.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Azure.Identity.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\DataLayer.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Services.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\DataLayer.pdb
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\bin\Debug\net8.0\Services.pdb
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.csproj.AssemblyReference.cache
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.AssemblyInfoInputs.cache
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.AssemblyInfo.cs
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.csproj.CoreCompileInputs.cache
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.MvcApplicationPartsAssemblyInfo.cache
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.RazorAssemblyInfo.cache
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.RazorAssemblyInfo.cs
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\staticwebassets.build.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\staticwebassets.development.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.HomeLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.HomeLibrary.props
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HomeLibrary.props
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HomeLibrary.props
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\scopedcss\bundle\HomeLibrary.styles.css
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\scopedcss\projectbundle\HomeLibrary.bundle.scp.css
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibr.D329F5B4.Up2Date
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\refint\HomeLibrary.dll
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.pdb
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\HomeLibrary.genruntimeconfig.cache
+D:\Тестовое задание\HomeLibraryMVC\HomeLibrary\obj\Debug\net8.0\ref\HomeLibrary.dll

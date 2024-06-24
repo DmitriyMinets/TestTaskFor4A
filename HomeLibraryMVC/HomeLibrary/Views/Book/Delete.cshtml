@@ -1,0 +1,41 @@
+﻿@model DataLayer.Models.Book
+
+<h2>Удалить</h2>
+
+<h3>Вы уверены, что хотите удалить эту книгу?</h3>
+<div>
+    <h4>Книга</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Author)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Author)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.YearOfPublication)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.YearOfPublication)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TableOfContents)
+        </dt>
+        <dd>
+            @Html.Raw(Model.TableOfContents)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="BookID" />
+        <input type="submit" value="Удалить" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-primary">Вернуться</a>
+    </form>
+</div>

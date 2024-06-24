@@ -1,0 +1,33 @@
+﻿@model DataLayer.Models.Book
+
+<h2>Изменить</h2>
+
+<form asp-action="Edit" class="container">
+    <h4>Книга</h4>
+    <hr />
+    <div class="form-group mb-3">
+        <input asp-for="BookID" type="hidden" />
+        <label asp-for="Title" class="control-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Author" class="control-label"></label>
+        <input asp-for="Author" class="form-control" />
+        <span asp-validation-for="Author" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="YearOfPublication" class="control-label"></label>
+        <input asp-for="YearOfPublication" class="form-control" />
+        <span asp-validation-for="YearOfPublication" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="TableOfContents" class="control-label"></label>
+        <textarea asp-for="TableOfContents" class="form-control"></textarea>
+        <span asp-validation-for="TableOfContents" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Сохранить" class="btn btn-success" />
+    </div>
+</form>
+
